@@ -9,7 +9,7 @@ import the csv file using pandas package.
 # step2:
 store the data as dataframe in a variable.
 # step3:
-display the information of data sunch as datatypes,value counts,skewness
+display the information of data such as datatypes,value counts,skewness
 # step4: 
 display the data in the barplot,scatter plot and heatmap.
 
